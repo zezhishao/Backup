@@ -1,0 +1,1 @@
+Download raw data from https://www.kaggle.com/c/digit-recognizer/data and put it in this folder.
